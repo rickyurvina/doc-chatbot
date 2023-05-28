@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  web:
+    image: chat-doc
+    ports:
+      - "80:80"
+    environment:
+      NODE_ENV: development,
+    env_file:
+      - local.env

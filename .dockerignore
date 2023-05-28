@@ -1,0 +1,13 @@
+.git
+.editorconfig
+/.vscode/*
+/node_modules
+/e2e
+.gitignore
+*.zip
+.firebase
+.gitignore
+/.next
+*.zip
+*.md
+
