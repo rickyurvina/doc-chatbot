@@ -11,8 +11,6 @@ const nextConfig = {
   },
 };
 
-module.exports ={
-  output:"standalone",
-}
+
 
 export default nextConfig;
