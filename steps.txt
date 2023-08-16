@@ -1,0 +1,5 @@
+Mongo db username rickyurvina
+password LcdRu0501
+
+pinecode api key 6c4df8ef-b9c0-461c-a2b7-8c9748110efa
+pinecode environment us-west4-gcp-free
